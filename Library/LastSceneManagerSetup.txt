@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Samples/Reflection/SSR/SSR.unity
+- path: Assets/Samples/ReflectionModel/Lambert/Lambart.unity
   isLoaded: 1
   isActive: 1
